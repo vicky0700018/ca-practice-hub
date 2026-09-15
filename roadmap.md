@@ -1,0 +1,4 @@
+- [ ] Build the CAConnect shell, navigation, and design tokens
+- [ ] Add connected mock data and all requested module views
+- [ ] Add reusable modals and local CRUD interactions
+- [ ] Verify the dashboard and core flows in the live preview
